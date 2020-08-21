@@ -12,7 +12,6 @@ module.exports = {
       options: {
         name: `markdown-pages`,
         path: `${__dirname}/blog`,
-        name: `markdown-pages`,
       },
     },
     `gatsby-transformer-remark`,
